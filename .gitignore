@@ -3,3 +3,20 @@
 ################################################################################
 
 /DeckOfCards/ClientApp/e2e/src/app.e2e-spec.ts
+/DeckOfCards/ClientApp/e2e/src/app.po.ts
+/DeckOfCards/ClientApp/e2e/protractor.conf.js
+/DeckOfCards/ClientApp/e2e/tsconfig.e2e.json
+/DeckOfCards/ClientApp/src/tsconfig.server.json
+/DeckOfCards/ClientApp/src/tsconfig.app.json
+/DeckOfCards/ClientApp/src/tslint.json
+/DeckOfCards/ClientApp/src/tsconfig.spec.json
+/DeckOfCards/ClientApp/.editorconfig
+/DeckOfCards/ClientApp/angular.json
+/DeckOfCards/ClientApp/browserslist
+/DeckOfCards/ClientApp/package-lock.json
+/DeckOfCards/ClientApp/package.json
+/DeckOfCards/ClientApp/tsconfig.json
+/DeckOfCards/ClientApp/tslint.json
+/DeckOfCards/appsettings.json
+/DeckOfCards/appsettings.Development.json
+/DeckOfCards/Properties/launchSettings.json

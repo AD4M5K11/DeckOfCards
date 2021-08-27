@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="eng" dir="ltr">
+    <head>
+        <meta charset="utf-8">
+        <title> Card Game Tech Test </title>
+        <script type="text/typescript" src="./card-game.component.ts"></script>
+        <script src="../../../../Functionality/DeckOfCardsfunctionality.cs"></script>
+        <link type="stylesheet" href="./card-game.component.css">
+    </head>
+    <body>
+
+        <button type="button" id="StartOver" onclick="Reset()"> Start Over </button>
+        <button type="button" id="DealCard" onclick="TakeCard()"> Deal Card </button>
+        <button type="button" id="ShuffleDeck" onclick="Shuffle()"> Shuffle Deck </button>
+
+        <div id="container">
+            <div id="playing-card">
+                <div id="flip-card">
+                    <div id="card-front">
+
+
+                    </div>
+                    <div id="card-back">
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
